@@ -37,4 +37,4 @@ The code and solutions in this organization are licensed under the [MIT License]
 
 Happy coding and learning!
 
-![The Odin Project Logo](https://www.theodinproject.com/assets/odin-logo-7b78d26cc183678c69630d6f17e30e219313b8d31d370c457b53c933ed8a9431.svg)
+![The Odin Project Logo](https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg)
