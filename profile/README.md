@@ -1,4 +1,4 @@
-# [Iustin-OdinProject]
+# [Iustin-OdinProject](https://github.com/Iustin-OdinProject)
 
 Welcome to the GitHub organization where I share my completed lesson solutions from The Odin Project course. This repository is intended to showcase my progress and projects as I learn web development. By sharing my work, I hope to contribute to a collaborative learning environment and inspire others to learn and create.
 
